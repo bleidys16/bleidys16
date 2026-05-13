@@ -17,24 +17,25 @@ Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML](https://img.shields.io/badge/HTML-F4A6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-F4A6C1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E88BAA?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-D8B4F8?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-F4A6C1?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-E88BAA?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-D8B4F8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-F4A6C1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-E88BAA?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D8B4F8?style=for-the-badge&logo=python&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F4A6C1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-E88BAA?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-D8B4F8?style=for-the-badge)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-F4A6C1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E88BAA?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-D8B4F8?style=for-the-badge&logo=vercel&logoColor=white)
 
 </p>
 
