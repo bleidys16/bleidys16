@@ -17,25 +17,25 @@ Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML-C2185B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-C2185B?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-AD1457?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7B1FA2?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-C2185B?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-AD1457?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-7B1FA2?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-![Node.js](https://img.shields.io/badge/Node.js-C2185B?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-AD1457?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7B1FA2?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C2185B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-AD1457?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-7B1FA2?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-![Render](https://img.shields.io/badge/Render-C2185B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-AD1457?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-7B1FA2?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 </p>
 
@@ -48,7 +48,7 @@ Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté
 
 <p align="center">
 
-[![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lariosbleidys@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B1FA2?style=for-the-badge&logo=vercel&logoColor=white)](https://portafoliobleidys.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lariosbleidys@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafoliobleidys.vercel.app/)
 
 </p>
