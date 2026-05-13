@@ -8,7 +8,7 @@
 
 Desarrolladora full stack con enfoque en frontend. Construyo interfaces claras y bien estructuradas, con lógica sólida en backend. Me enfoco en aplicaciones coherentes tanto en experiencia de usuario como en manejo de datos.
 
-## Now
+## Actualmente
 
 Trabajo en un mini BI para análisis de datos desde CSV, centrado en procesamiento, visualización y consultas en lenguaje natural.  
 Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté bien integrado con backend.
@@ -43,7 +43,7 @@ Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté
 > Prefiero soluciones simples y mantenibles.  
 > Si algo es difícil de entender, probablemente también lo será de mantener.
 
-## Contacto
+## ¡Trabajemos junt@s!
 
 <p align="center">
 
