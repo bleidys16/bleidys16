@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/yl02DpD.png" />
+  <img src="https://i.imgur.com/aREuIkV.jpeg" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+with+solid+logic+behind" />
 </p>
 
 Desarrolladora full stack con enfoque en frontend. Construyo interfaces claras y bien estructuradas, con lógica sólida en backend. Me enfoco en aplicaciones coherentes tanto en experiencia de usuario como en manejo de datos.
 
-## Actualmente
+## Now
 
 Trabajo en un mini BI para análisis de datos desde CSV, centrado en procesamiento, visualización y consultas en lenguaje natural.  
 Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté bien integrado con backend.
