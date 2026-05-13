@@ -3,29 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=600&lines=From+data+to+interface;Building+tools+that+make+data+useful;Frontend+focused+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=600&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+with+solid+logic+behind" />
 </p>
 
-<p align="center">
-
-![Focus](https://img.shields.io/badge/Focus-Frontend%20Engineering-C2185B?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-CSV%20Analysis-AD1457?style=for-the-badge)
-![Queries](https://img.shields.io/badge/Queries-Natural%20Language-7B1FA2?style=for-the-badge)
-![Building](https://img.shields.io/badge/Building-Data%20Tools-6A1B9A?style=for-the-badge)
-
-</p>
-
-Desarrolladora full stack con enfoque en frontend. Construyo interfaces claras y bien estructuradas, respaldadas por una lógica sólida en backend. Trabajo en aplicaciones donde los datos no solo se muestran, sino que se entienden.
-
-## Flujo de trabajo
-
-Datos → procesamiento → interfaz → usuario  
-
-Trabajo principalmente en transformar datos en experiencias utilizables, cuidando tanto la estructura interna como la interacción final.
+Desarrolladora full stack con enfoque en frontend. Construyo interfaces claras y bien estructuradas, con lógica sólida en backend. Me enfoco en aplicaciones coherentes tanto en experiencia de usuario como en manejo de datos.
 
 ## Actualmente
 
-Desarrollo un mini BI para análisis de datos desde archivos CSV, centrado en procesamiento, visualización y consultas en lenguaje natural.
+Trabajo en un mini BI para análisis de datos desde CSV, centrado en procesamiento, visualización y consultas en lenguaje natural.  
+Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté bien integrado con backend.
 
 ## Stack
 
@@ -58,7 +44,7 @@ Desarrollo un mini BI para análisis de datos desde archivos CSV, centrado en pr
 > Prefiero soluciones simples y mantenibles.  
 > Si algo es difícil de entender, probablemente también lo será de mantener.
 
-## Contacto
+## ¡Trabajemos juntos!
 
 <p align="center">
 
