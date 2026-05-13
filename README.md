@@ -43,7 +43,7 @@ Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté
 > Prefiero soluciones simples y mantenibles.  
 > Si algo es difícil de entender, probablemente también lo será de mantener.
 
-## ¡Trabajemos junt@s!
+## ¡Trabajemos juntos!
 
 <p align="center">
 
