@@ -85,9 +85,9 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
 
 ## `// actualmente`
 
-> **Construyendo** Analyzor — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural con Python.  
-> **Aprendiendo** Figma para diseñar antes de codear · React Native + Expo para apps móviles · D3.js para visualizaciones de datos avanzadas · Docker para deploys más sólidos.  
-> **Interesada en colaborar** en proyectos donde el frontend tenga un rol activo e integrado con backend.
+**Construyendo** Analyzor — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural con Python.<br/>  
+**Aprendiendo** Figma para diseñar antes de codear · React Native + Expo para apps móviles · D3.js para visualizaciones de datos avanzadas · Docker para deploys más sólidos.<br/>
+**Interesada en colaborar** en proyectos donde el frontend tenga un rol activo e integrado con backend.
 
 <br/>
 
