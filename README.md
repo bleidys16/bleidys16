@@ -85,12 +85,15 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
 
 ## `// actualmente`
 
-- &nbsp; ◆ &nbsp; Construyendo **Analyzor** — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural
-- &nbsp; ◆ &nbsp; Aprendiendo **React Native + Expo** para dar el salto a apps móviles
-- &nbsp; ◆ &nbsp; Explorando **Figma** para diseñar interfaces antes de codearlas
-- &nbsp; ◆ &nbsp; Profundizando en **D3.js** para visualizaciones de datos avanzadas
-- &nbsp; ◆ &nbsp; Aprendiendo **Docker** para deploys más sólidos y sin cold starts
-- &nbsp; ◆ &nbsp; Interesada en colaborar en proyectos donde el frontend tenga un rol activo e integrado con backend
+◆ Construyendo **Analyzor** — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural
+
+◆ Aprendiendo **React Native + Expo** para dar el salto a apps móviles
+
+◆ Explorando **Figma** para diseñar interfaces antes de codearlas
+
+◆ Profundizando en **D3.js** para visualizaciones de datos avanzadas
+
+◆ Aprendiendo **Docker** para deploys más sólidos y sin cold starts
 
 <br/>
 
