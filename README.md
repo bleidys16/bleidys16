@@ -6,7 +6,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=600&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+with+solid+logic+behind" />
 </p>
 
-Desarrolladora full stack con enfoque en frontend. Construyo interfaces claras y bien estructuradas, con lógica sólida en backend. Me enfoco en aplicaciones coherentes tanto en experiencia de usuario como en manejo de datos.
+Desarrolladora full stack con enfoque en frontend, interesada en construir aplicaciones coherentes en interfaz, lógica y datos.
+
+## Sobre mí
+
+- Construyo interfaces con propósito, enfocadas en el uso de los datos  
+- Trabajo en frontend cuidando la integración con backend  
+- Me enfoco en el flujo de información y en experiencias claras  
+
+## Proyectos destacados
+
+**CineApp**  
+https://github.com/bleidys16/CineApp  
+https://cine-psi-lilac.vercel.app/  
+Aplicación web para exploración de contenido cinematográfico, con enfoque en consumo de APIs, renderizado dinámico en frontend y experiencia de usuario.
+
+**Analyzor**  
+https://github.com/bleidys16/Analyzor  
+Herramienta orientada al análisis de datos desde archivos CSV, con procesamiento, visualización y consultas en lenguaje natural.
 
 ## Actualmente
 
