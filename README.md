@@ -16,7 +16,7 @@
 <tr>
 <td width="50%">
 
-&nbsp; ◆ &nbsp; Construyo interfaces con propósito, enfocadas en el uso de los datos
+&nbsp; ◆ &nbsp; Estudiante de Análisis y Desarrollo de Software - SENA
 
 </td>
 <td width="50%">
@@ -33,7 +33,7 @@
 </td>
 <td>
 
-&nbsp; ◆ &nbsp; Trabajando en un mini BI para análisis de CSV con lenguaje natural
+&nbsp; ◆ &nbsp; Construyo interfaces con propósito, enfocadas en el uso de los datos
 
 </td>
 </tr>
