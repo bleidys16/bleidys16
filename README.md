@@ -10,7 +10,7 @@
 
 <br/>
 
-## `// about`
+## `// sobre mí`
 
 <table>
 <tr>
