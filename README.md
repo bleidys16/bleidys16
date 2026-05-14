@@ -1,71 +1,170 @@
 <p align="center">
-  <img src="https://i.imgur.com/aREuIkV.jpeg" />
+  <img src="https://i.imgur.com/aREuIkV.jpeg" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=600&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+with+solid+logic+behind" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=620&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+%E2%80%94+solid+logic+behind" />
 </p>
 
-Desarrolladora full stack con enfoque en frontend, interesada en construir aplicaciones coherentes en interfaz, lógica y datos.
+<br/>
 
-## Sobre mí
+---
 
-- Construyo interfaces con propósito, enfocadas en el uso de los datos  
-- Trabajo en frontend cuidando la integración con backend  
-- Me enfoco en el flujo de información y en experiencias claras  
+<br/>
 
-## Proyectos destacados
+```
+// about
+```
 
-**CineApp**  
-https://github.com/bleidys16/CineApp  
-https://cine-psi-lilac.vercel.app/  
-Aplicación web para exploración de contenido cinematográfico, con enfoque en consumo de APIs, renderizado dinámico en frontend y experiencia de usuario.
+<table>
+<tr>
+<td width="50%">
 
-**Analyzor**  
-https://github.com/bleidys16/Analyzor  
-Herramienta orientada al análisis de datos desde archivos CSV, con procesamiento, visualización y consultas en lenguaje natural.
+&nbsp; ◆ &nbsp; Construyo interfaces con propósito, enfocadas en el uso de los datos
 
-## Actualmente
+</td>
+<td width="50%">
 
-Trabajo en un mini BI para análisis de datos desde CSV, centrado en procesamiento, visualización y consultas en lenguaje natural.  
-Me interesa colaborar en proyectos donde el frontend tenga un rol activo y esté bien integrado con backend.
+&nbsp; ◆ &nbsp; Frontend con integración cuidada en backend y lógica de negocio
 
-## Stack
+</td>
+</tr>
+<tr>
+<td>
+
+&nbsp; ◆ &nbsp; Enfoque en flujo de información y experiencias claras para el usuario
+
+</td>
+<td>
+
+&nbsp; ◆ &nbsp; Trabajando en un mini BI para análisis de CSV con lenguaje natural
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+```
+// proyectos destacados
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineApp
+`web app` &nbsp; `full stack`
+
+Aplicación web para exploración de contenido cinematográfico — consumo de APIs externas, renderizado dinámico, JWT auth, QR ticketing, email notifications y preventa.
+
+**Stack:** React · Node.js · Express · PostgreSQL · TMDB API
+
+[![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/bleidys16/CineApp)
+[![Live](https://img.shields.io/badge/Live-C2185B?style=flat-square&logo=vercel&logoColor=white)](https://cine-psi-lilac.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Analyzor
+`data tool` &nbsp; `AI-powered`
+
+Herramienta orientada al análisis de datos desde archivos CSV — procesamiento, visualización interactiva y consultas en lenguaje natural.
+
+**Stack:** Python · React · Vite · Charts
+
+[![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/bleidys16/Analyzor)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+```
+// actualmente
+```
+
+> **Trabajando en** un mini BI para análisis de datos desde CSV — procesamiento, visualización y consultas en lenguaje natural.
+> **Interesada en colaborar** en proyectos donde el frontend tenga un rol activo e integrado con backend.
+
+<br/>
+
+---
+
+<br/>
+
+```
+// stack
+```
+
+**Frontend**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+
+**Deploy & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5CC?style=flat-square&logoColor=black)
+
+<br/>
+
+---
+
+<br/>
+
+```
+// stats
+```
 
 <p align="center">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bleidys16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&icon_color=C2185B&text_color=8b949e" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleidys16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&text_color=8b949e" />
 </p>
 
-## Filosofía de código
+<br/>
 
-> Prefiero soluciones simples y mantenibles.  
-> Si algo es difícil de entender, probablemente también lo será de mantener.
+---
 
-## ¡Trabajemos juntos!
+<br/>
+
+```
+// ¡trabajemos juntos!
+```
 
 <p align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lariosbleidys@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafoliobleidys.vercel.app/)
-
+  <a href="mailto:lariosbleidys@gmail.com">
+    <img src="https://img.shields.io/badge/lariosbleidys%40gmail.com-C2185B?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portafoliobleidys.vercel.app/">
+    <img src="https://img.shields.io/badge/portafoliobleidys.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
+<br/>
