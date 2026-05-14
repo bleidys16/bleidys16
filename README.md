@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=620&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+%E2%80%94+solid+logic+behind" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=620&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+%E2%80%94+solid+logic+behind" />
 </p>
 
 ---
