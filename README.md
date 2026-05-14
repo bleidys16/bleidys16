@@ -85,7 +85,8 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
 
 ## `// actualmente`
 
-> **Trabajando en** un mini BI para análisis de datos desde CSV — procesamiento, visualización y consultas en lenguaje natural.  
+> **Construyendo** Analyzor — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural con Python.  
+> **Aprendiendo** Figma para diseñar antes de codear · React Native + Expo para apps móviles · D3.js para visualizaciones de datos avanzadas · Docker para deploys más sólidos.  
 > **Interesada en colaborar** en proyectos donde el frontend tenga un rol activo e integrado con backend.
 
 <br/>
@@ -133,10 +134,6 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bleidys16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&icon_color=C2185B&text_color=8b949e" />
   &nbsp;
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bleidys16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&text_color=8b949e&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bleidys16&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4&title=Stars,Commits,Repositories,PullRequest" />
 </p>
 
 <br/>
