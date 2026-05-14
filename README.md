@@ -28,7 +28,7 @@
 <tr>
 <td>
 
-&nbsp; ◆ &nbsp; Enfoque en flujo de información y experiencias claras para el usuario
+&nbsp; ◆ &nbsp; Cursando II semestre de Ingeniería de Software y Datos - IU DIGITAL DE ANTIOQUIA
 
 </td>
 <td>
