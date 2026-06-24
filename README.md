@@ -72,8 +72,25 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
 **Stack:** Python · React · Vite · Charts
 
 [![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/Analyzor)
+[![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=vercel&logoColor=white)](https://analyzor.vercel.app/)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 VITA-Clinical
+`web app` &nbsp; `clinical system`
+
+Sistema de gestión clínica diseñado para optimizar el control de expedientes médicos, atención al paciente y administración eficiente de datos de salud.
+
+**Stack:** React · Node.js · Express · Database
+
+[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/VITA-Clinical.git)
+[![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=render&logoColor=white)](https://vita-clinical.onrender.com/)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -85,50 +102,11 @@ Herramienta orientada al análisis de datos desde archivos CSV — procesamiento
 
 ## `// actualmente`
 
-<table>
-<tr>
-<td>
+&nbsp; ◆ &nbsp; Construyendo **Soportix** — Software Helpdesk para soporte empresarial con automatización de tickets, asignación inteligente por roles y flujos de comunicación centralizados.
 
-&nbsp; ◆ &nbsp; Construyendo **Analyzor** — mini BI para análisis de CSV con procesamiento, visualización interactiva y consultas en lenguaje natural
+<br/>
 
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Aprendiendo **React Native + Expo** para dar el salto a apps móviles
-
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Explorando **Figma** para diseñar interfaces antes de codearlas
-
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Profundizando en **D3.js** para visualizaciones de datos avanzadas
-
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Aprendiendo **Docker** para deploys más sólidos y sin cold starts
-
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Interesada en colaborar en proyectos donde el frontend tenga un rol activo e integrado con backend
-
-</td>
-</tr>
-</table>
+&nbsp; ◆ &nbsp; Interesada en colaborar en proyectos donde el frontend tenga un rol activo e integrado con backend.
 
 <br/>
 
