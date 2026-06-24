@@ -92,7 +92,7 @@ Sistema de gestión clínica diseñado para optimizar el control de expedientes 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Soportix
+### 🛠️ Soportix (en proceso)
 `helpdesk` &nbsp; `enterprise tool`
 
 Software Helpdesk para soporte empresarial con automatización de tickets, asignación inteligente por roles y flujos de comunicación centralizados.
