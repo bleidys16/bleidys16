@@ -90,7 +90,18 @@ Sistema de gestión clínica diseñado para optimizar el control de expedientes 
 [![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=render&logoColor=white)](https://vita-clinical.onrender.com/)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 🛠️ Soportix
+`helpdesk` &nbsp; `enterprise tool`
+
+Software Helpdesk para soporte empresarial con automatización de tickets, asignación inteligente por roles y flujos de comunicación centralizados.
+
+**Stack:** Full Stack · Tools
+
+[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/Soportix.git)
+
+</td>
 </tr>
 </table>
 
