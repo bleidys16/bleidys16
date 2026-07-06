@@ -144,6 +144,10 @@ Software Helpdesk para soporte empresarial con automatización de tickets, asign
   </a>
   &nbsp;
   <a href="https://portafoliobleidys.vercel.app/">
-    <img src="https://img.shields.io/badge/portafoliobleidys.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bleidyspaolalarios1608">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
