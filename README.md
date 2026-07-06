@@ -130,10 +130,6 @@ Software Helpdesk para soporte empresarial con automatización de tickets, asign
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bleidys16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&text_color=8b949e&langs_count=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=bleidys16&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C2185B&fire=C2185B&currStreakLabel=C2185B&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-</p>
-
 <br/>
 
 ---
