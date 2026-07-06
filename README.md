@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 <br/>
 
 ## `// sobre mí`
@@ -13,10 +12,7 @@
 
 🚀 Construyendo interfaces con React, JavaScript y Next.js  
 🎨 Aprendiendo Flutter para mejorar experiencias UI/UX  
-🤖 Fascinada por Machine Learning y análisis de datos  
-
-⚡ Stack: React · JavaScript · Next.js · Flask/Django · PostgreSQL  
-🔧 Herramientas: Tailwind · Bootstrap · Supabase · Vercel · Git
+🤖 Me atrae el Machine Learning y análisis de datos  
 
 🌐 Frontend con integración cuidada en backend y lógica de negocio  
 🎯 Interesada en colaborar en proyectos donde el frontend tenga un rol activo
