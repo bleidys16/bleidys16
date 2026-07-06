@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/hkxvEZi.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=620&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+%E2%80%94+solid+logic+behind" />
 </p>
 
@@ -12,32 +8,18 @@
 
 ## `// sobre mí`
 
-<table>
-<tr>
-<td width="50%">
+💻 Estudiante de Análisis y Desarrollo de Software — SENA  
+🎓 Cursando Ingeniería de Software y Datos — IU DIGITAL DE ANTIOQUIA
 
-&nbsp; ◆ &nbsp; Estudiante de Análisis y Desarrollo de Software - SENA
+🚀 Construyendo interfaces con React, JavaScript y Next.js  
+🎨 Aprendiendo Flutter para mejorar experiencias UI/UX  
+🤖 Fascinada por Machine Learning y análisis de datos  
 
-</td>
-<td width="50%">
+⚡ Stack: React · JavaScript · Next.js · Flask/Django · PostgreSQL  
+🔧 Herramientas: Tailwind · Bootstrap · Supabase · Vercel · Git
 
-&nbsp; ◆ &nbsp; Frontend con integración cuidada en backend y lógica de negocio
-
-</td>
-</tr>
-<tr>
-<td>
-
-&nbsp; ◆ &nbsp; Cursando II semestre de Ingeniería de Software y Datos - IU DIGITAL DE ANTIOQUIA
-
-</td>
-<td>
-
-&nbsp; ◆ &nbsp; Construyo interfaces con propósito, enfocadas en el uso de los datos
-
-</td>
-</tr>
-</table>
+🌐 Frontend con integración cuidada en backend y lógica de negocio  
+🎯 Interesada en colaborar en proyectos donde el frontend tenga un rol activo
 
 <br/>
 
@@ -111,20 +93,6 @@ Software Helpdesk para soporte empresarial con automatización de tickets, asign
 
 <br/>
 
-## `// actualmente`
-
-&nbsp; ◆ &nbsp; Construyendo **Soportix** — Software Helpdesk para soporte empresarial con automatización de tickets, asignación inteligente por roles y flujos de comunicación centralizados.
-
-<br/>
-
-&nbsp; ◆ &nbsp; Interesada en colaborar en proyectos donde el frontend tenga un rol activo e integrado con backend.
-
-<br/>
-
----
-
-<br/>
-
 ## `// stack`
 
 **Frontend**
@@ -132,10 +100,10 @@ Software Helpdesk para soporte empresarial con automatización de tickets, asign
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Data**
 
