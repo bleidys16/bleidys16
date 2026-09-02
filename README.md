@@ -46,7 +46,10 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 <h3 align="center"><code>// tech stack</code></h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,fastapi,django,postgres,mysql,sqlite,git,github,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,fastapi,django,postgres,mysql,sqlite" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 </p>
 
 <h3 align="center"><code>// projects</code></h3>
