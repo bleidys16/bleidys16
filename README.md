@@ -25,7 +25,7 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 **Currently building**
 
-**CineApp**, a cinema platform with JWT auth, TMDB integration and QR ticket generation — and **Analyzor**, a tool to explore CSV datasets through natural-language queries and interactive charts.
+Learning and building **mobile apps in Android Studio** — including a **Wallet app** and **ClimaTrack**, exploring native Android development alongside my web stack.
 
 </td>
 <td align="center" width="35%">
@@ -34,15 +34,13 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 </tr>
 </table>
 
-<table>
-<tr>
-<td align="center">
+<h3 align="center"><code>// tech stack</code></h3>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,fastapi,django,postgres,mysql,sqlite,git,github,vercel,docker" />
+</p>
 
-</td>
-</tr>
-</table>
+<h3 align="center"><code>// projects</code></h3>
 
 <table>
 <tr>
@@ -50,19 +48,22 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 **🎬 [CineApp](https://github.com/bleidys16/CineApp)**
 Plataforma de cine con auth JWT, TMDB y tickets QR.
-`React` `Node.js` `PostgreSQL` · [Live](https://cine-psi-lilac.vercel.app/)
+`React` `Node.js` `PostgreSQL`
+[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://cine-psi-lilac.vercel.app/)
 
 ---
 
 **📊 [Analyzor](https://github.com/bleidys16/Analyzor)**
 Análisis de CSV con visualizaciones y NLP.
-`Python` `React` `Vite` · [Live](https://analyzor.vercel.app/)
+`Python` `React` `Vite`
+[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
 
 ---
 
 **🏥 [VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
 Gestión clínica con arquitectura CRUD.
-`React` `Node.js` `Express` · [Live](https://vita-clinical.onrender.com/)
+`React` `Node.js` `Express`
+[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://vita-clinical.onrender.com/)
 
 ---
 
@@ -79,22 +80,6 @@ Helpdesk empresarial con tickets y roles. *En desarrollo.*
 </td>
 </tr>
 </table>
-
-<br/>
-
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  $ npm run dev                                     │
-│                                                    │
-│  ◌ compiling components...                         │
-│  ◌ connecting API...                                │
-│  ◌ checking database...                             │
-│                                                    │
-│  ✓ application ready                                │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
 
 <br/>
 
