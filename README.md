@@ -1,115 +1,84 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:151217,20:5A3D5E,40:8D6A91,60:B9A0C9,80:E8A9C4,100:E8C9D8&height=180&section=header&text=Bleidys&fontSize=38&fontColor=F7F4F5&animation=fadeIn"
-    width="100%"
-    alt="Bleidys - Software Developer"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="280" alt="coding gif" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=22&duration=3000&pause=900&color=8D6A91&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+interfaces+with+solid+logic+behind;Turning+ideas+into+real+software+%E2%9C%A6"
-    alt="Typing animation"
-  />
-</p>
-
-<p align="center">
-  <a href="https://portafoliobleidys.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-5A3D5E?style=for-the-badge&logo=vercel&logoColor=F7F4F5" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/bleidyspaolalarios1608">
-    <img src="https://img.shields.io/badge/linkedin-8D6A91?style=for-the-badge&logo=linkedin&logoColor=F7F4F5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lariosbleidys@gmail.com">
-    <img src="https://img.shields.io/badge/email-E8A9C4?style=for-the-badge&logo=gmail&logoColor=151217" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  Software developer & data student building complete digital products — from interface to backend logic.<br/>
-  Interested in clean UI/UX, solid architecture, and turning data into something useful. ♡
-</p>
-
-<br/>
-
-### `// featured projects`
-
-**🎬 [CineApp](https://github.com/bleidys16/CineApp)** — Plataforma de cine con auth JWT, integración con TMDB y generación de tickets QR. `React` `Node.js` `PostgreSQL` — [Live](https://cine-psi-lilac.vercel.app/)
-
-**📊 [Analyzor](https://github.com/bleidys16/Analyzor)** — Análisis de datasets CSV con visualizaciones interactivas y consultas en lenguaje natural. `Python` `React` `Vite` — [Live](https://analyzor.vercel.app/)
-
-**🏥 [VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)** — Gestión de historiales y flujos clínicos con arquitectura CRUD. `React` `Node.js` `Express` — [Live](https://vita-clinical.onrender.com/)
-
-**🛠️ [Soportix](https://github.com/bleidys16/Soportix)** — Helpdesk empresarial con gestión de tickets y flujos por rol. *En desarrollo.*
-
-<br/>
-
-### `// tech stack`
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td align="center" valign="top" width="25%">
+<td width="70%" valign="top">
 
-**Frontend**
+I'm a **Full Stack Developer** & data student building complete digital products — from interface to backend logic.
 
-<img src="https://img.shields.io/badge/HTML5-5A3D5E?style=flat-square&logo=html5&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-8D6A91?style=flat-square&logo=javascript&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/TypeScript-B9A0C9?style=flat-square&logo=typescript&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/React-E8A9C4?style=flat-square&logo=react&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Next.js-5A3D5E?style=flat-square&logo=next.js&logoColor=F7F4F5"/>
+I focus on clean **UI/UX**, solid **architecture**, and turning **data** into something useful.
+
+I'm currently exploring **APIs, cloud deployment, and data visualization** to build more complete products. ♡
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" width="30%" valign="middle">
 
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-5A3D5E?style=flat-square&logo=node.js&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/Express-8D6A91?style=flat-square&logo=express&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/Python-B9A0C9?style=flat-square&logo=python&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/FastAPI-E8A9C4?style=flat-square&logo=fastapi&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Django-5A3D5E?style=flat-square&logo=django&logoColor=F7F4F5"/>
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Database & Data**
-
-<img src="https://img.shields.io/badge/PostgreSQL-8D6A91?style=flat-square&logo=postgresql&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/MySQL-B9A0C9?style=flat-square&logo=mysql&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/SQLite-E8A9C4?style=flat-square&logo=sqlite&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Pandas-5A3D5E?style=flat-square&logo=pandas&logoColor=F7F4F5"/>
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-5A3D5E?style=flat-square&logo=git&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/GitHub-8D6A91?style=flat-square&logo=github&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/Vercel-B9A0C9?style=flat-square&logo=vercel&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Render-E8A9C4?style=flat-square&logo=render&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Docker-5A3D5E?style=flat-square&logo=docker&logoColor=F7F4F5"/>
+[![Portfolio](https://img.shields.io/badge/portfolio-5A3D5E?style=for-the-badge&logo=vercel&logoColor=F7F4F5)](https://portafoliobleidys.vercel.app/)<br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-8D6A91?style=for-the-badge&logo=linkedin&logoColor=F7F4F5)](https://www.linkedin.com/in/bleidyspaolalarios1608)<br/>
+[![Email](https://img.shields.io/badge/email-E8A9C4?style=for-the-badge&logo=gmail&logoColor=151217)](mailto:lariosbleidys@gmail.com)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-### `// github activity`
+**Currently building**
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bleidys16&layout=compact&hide_border=true&bg_color=151217&title_color=E8A9C4&text_color=918A91&langs_count=6" height="165" alt="Top Languages" />
-</p>
+**CineApp**, a cinema platform with JWT auth, TMDB integration and QR ticket generation — and **Analyzor**, a tool to explore CSV datasets through natural-language queries and interactive charts.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5" width="480" alt="GitHub Streak" />
-</p>
+</td>
+<td align="center" width="35%">
+<img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="170" alt="coding gif"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,fastapi,django,postgres,mysql,sqlite,git,github,vercel,docker" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+**🎬 [CineApp](https://github.com/bleidys16/CineApp)**
+Plataforma de cine con auth JWT, TMDB y tickets QR.
+`React` `Node.js` `PostgreSQL` · [Live](https://cine-psi-lilac.vercel.app/)
+
+---
+
+**📊 [Analyzor](https://github.com/bleidys16/Analyzor)**
+Análisis de CSV con visualizaciones y NLP.
+`Python` `React` `Vite` · [Live](https://analyzor.vercel.app/)
+
+---
+
+**🏥 [VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
+Gestión clínica con arquitectura CRUD.
+`React` `Node.js` `Express` · [Live](https://vita-clinical.onrender.com/)
+
+---
+
+**🛠️ [Soportix](https://github.com/bleidys16/Soportix)**
+Helpdesk empresarial con tickets y roles. *En desarrollo.*
+
+</td>
+<td align="center" width="42%" valign="top">
+
+<img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" width="100%" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5" width="100%" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
