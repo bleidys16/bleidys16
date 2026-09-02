@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="280" alt="She codes" />
+  <img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="280" alt="coding gif" />
 </p>
 
 <p align="center">
@@ -50,19 +50,17 @@
 
 ### `// tech stack`
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" valign="top" width="25%">
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/HTML5-5A3D5E?style=flat-square&logo=html5&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/CSS3-8D6A91?style=flat-square&logo=css3&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-B9A0C9?style=flat-square&logo=javascript&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/TypeScript-5A3D5E?style=flat-square&logo=typescript&logoColor=F7F4F5"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-8D6A91?style=flat-square&logo=javascript&logoColor=F7F4F5"/><br/>
+<img src="https://img.shields.io/badge/TypeScript-B9A0C9?style=flat-square&logo=typescript&logoColor=151217"/><br/>
 <img src="https://img.shields.io/badge/React-E8A9C4?style=flat-square&logo=react&logoColor=151217"/><br/>
-<img src="https://img.shields.io/badge/Next.js-5A3D5E?style=flat-square&logo=next.js&logoColor=F7F4F5"/><br/>
-<img src="https://img.shields.io/badge/Tailwind-8D6A91?style=flat-square&logo=tailwind-css&logoColor=F7F4F5"/>
+<img src="https://img.shields.io/badge/Next.js-5A3D5E?style=flat-square&logo=next.js&logoColor=F7F4F5"/>
 
 </td>
 <td align="center" valign="top" width="25%">
@@ -105,8 +103,8 @@
 ### `// github activity`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleidys16&layout=compact&hide_border=true&bg_color=151217&title_color=E8A9C4&text_color=918A91&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bleidys16&layout=compact&hide_border=true&bg_color=151217&title_color=E8A9C4&text_color=918A91&langs_count=6" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
