@@ -33,9 +33,9 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 </td>
 <td width="65%" valign="top">
 
-**Currently building**
+**Currently building ✦**
 
-Learning and building **mobile apps in Android Studio** — including a **Wallet app** and **ClimaTrack**, exploring native Android development alongside my web stack.
+Learning and building **mobile apps in Android Studio**, including a **Wallet app** and **ClimaTrack**, exploring native Android development.
 
 I'm a Software Analysis and Development student at **SENA**, and currently pursuing a degree in **Software & Data Engineering** at IU Digital de Antioquia. I'm drawn to **Machine Learning** and data analysis, and I care about frontend work that stays closely integrated with solid backend logic.
 
@@ -96,5 +96,5 @@ Helpdesk empresarial con tickets y roles. *En desarrollo.*
 <br/>
 
 <p align="center">
-  <sub>💗 built with code, curiosity & a little bit of lavender — <a href="mailto:lariosbleidys@gmail.com">let's talk</a></sub>
+  <sub>💗 thanks for stopping by - let's build something — <a href="mailto:lariosbleidys@gmail.com">let's talk</a></sub>
 </p>
