@@ -37,6 +37,8 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 Learning and building **mobile apps in Android Studio** — including a **Wallet app** and **ClimaTrack**, exploring native Android development alongside my web stack.
 
+I'm a Software Analysis and Development student at **SENA**, and currently pursuing a degree in **Software & Data Engineering** at IU Digital de Antioquia. I'm drawn to **Machine Learning** and data analysis, and I care about frontend work that stays closely integrated with solid backend logic.
+
 </td>
 </tr>
 </table>
