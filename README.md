@@ -1,153 +1,95 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&duration=3000&pause=800&color=C2185B&center=true&vCenter=true&width=700&lines=Frontend+focused+Full+Stack+Developer;Building+interfaces+that+make+data+make+sense;Clean+UI+%E2%80%94+solid+logic+behind" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:151217,25:5A3D5E,50:8D6A91,75:B9A0C9,100:E8C9D8&height=180&section=header&text=Bleidys&fontSize=38&fontColor=F7F4F5&animation=fadeIn"
+    width="100%"
+    alt="Bleidys - Software Developer"
+  />
 </p>
 
----
-<br/>
-
-## `// sobre mí`
-
-💻 Estudiante de Análisis y Desarrollo de Software — SENA  
-🎓 Cursando Ingeniería de Software y Datos — IU DIGITAL DE ANTIOQUIA
-
-🚀 Construyendo interfaces con React, JavaScript y Next.js  
-🎨 Aprendiendo Flutter para mejorar experiencias UI/UX  
-🤖 Me atrae el Machine Learning y análisis de datos  
-
-🌐 Frontend con integración cuidada en backend y lógica de negocio  
-🎯 Interesada en colaborar en proyectos donde el frontend tenga un rol activo
-
-<br/>
-
----
-
-<br/>
-
-## `// proyectos destacados`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 CineApp
-`web app` &nbsp; `full stack`
-
-Aplicación web para exploración de contenido cinematográfico — consumo de APIs externas, renderizado dinámico, JWT auth, QR ticketing, email notifications y preventa.
-
-**Stack:** React · Node.js · Express · PostgreSQL · TMDB API
-
-[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/CineApp)
-[![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=vercel&logoColor=white)](https://cine-psi-lilac.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analyzor
-`data tool` &nbsp; `AI-powered`
-
-Herramienta orientada al análisis de datos desde archivos CSV — procesamiento, visualización interactiva y consultas en lenguaje natural.
-
-**Stack:** Python · React · Vite · Charts
-
-[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/Analyzor)
-[![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=vercel&logoColor=white)](https://analyzor.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 VITA-Clinical
-`web app` &nbsp; `clinical system`
-
-Sistema de gestión clínica diseñado para optimizar el control de expedientes médicos, atención al paciente y administración eficiente de datos de salud.
-
-**Stack:** React · Node.js · Express · Database
-
-[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/VITA-Clinical.git)
-[![Live](https://img.shields.io/badge/Live-C2185B?style=for-the-badge&logo=render&logoColor=white)](https://vita-clinical.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Soportix (en proceso)
-`helpdesk` &nbsp; `enterprise tool`
-
-Software Helpdesk para soporte empresarial con automatización de tickets, asignación inteligente por roles y flujos de comunicación centralizados.
-
-**Stack:** Full Stack · Tools
-
-[![Repo](https://img.shields.io/badge/Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleidys16/Soportix.git)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## `// stack`
-
-**Frontend**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
-**Deploy & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logoColor=black)
-
-<br/>
-
----
-
-<br/>
-
-## `// stats`
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bleidys16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&icon_color=C2185B&text_color=8b949e" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bleidys16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2185B&text_color=8b949e&langs_count=6" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=22&duration=3000&pause=900&color=8D6A91&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+interfaces+with+solid+logic+behind;Turning+ideas+into+real+software+%E2%9C%A6"
+    alt="Typing animation"
+  />
 </p>
 
-<br/>
-
----
-
-<br/>
-
-## `// ¡trabajemos juntos!`
-
 <p align="center">
-  <a href="mailto:lariosbleidys@gmail.com">
-    <img src="https://img.shields.io/badge/lariosbleidys%40gmail.com-C2185B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://portafoliobleidys.vercel.app/">
-    <img src="https://img.shields.io/badge/portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-5A3D5E?style=for-the-badge&logo=vercel&logoColor=F7F4F5" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/bleidyspaolalarios1608">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-8D6A91?style=for-the-badge&logo=linkedin&logoColor=F7F4F5" alt="LinkedIn" />
   </a>
+  <a href="mailto:lariosbleidys@gmail.com">
+    <img src="https://img.shields.io/badge/email-B9A0C9?style=for-the-badge&logo=gmail&logoColor=151217" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  Software developer & data student building complete digital products — from interface to backend logic.<br/>
+  Interested in clean UI/UX, solid architecture, and turning data into something useful. ♡
+</p>
+
+<br/>
+
+### `// featured projects`
+
+**🎬 [CineApp](https://github.com/bleidys16/CineApp)** — Plataforma de cine con auth JWT, integración con TMDB y generación de tickets QR. `React` `Node.js` `PostgreSQL` — [Live](https://cine-psi-lilac.vercel.app/)
+
+**📊 [Analyzor](https://github.com/bleidys16/Analyzor)** — Análisis de datasets CSV con visualizaciones interactivas y consultas en lenguaje natural. `Python` `React` `Vite` — [Live](https://analyzor.vercel.app/)
+
+**🏥 [VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)** — Gestión de historiales y flujos clínicos con arquitectura CRUD. `React` `Node.js` `Express` — [Live](https://vita-clinical.onrender.com/)
+
+**🛠️ [Soportix](https://github.com/bleidys16/Soportix)** — Helpdesk empresarial con gestión de tickets y flujos por rol. *En desarrollo.*
+
+<br/>
+
+### `// tech stack`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-5A3D5E?style=flat-square&logo=javascript&logoColor=F7F4F5"/>
+  <img src="https://img.shields.io/badge/TypeScript-8D6A91?style=flat-square&logo=typescript&logoColor=F7F4F5"/>
+  <img src="https://img.shields.io/badge/React-B9A0C9?style=flat-square&logo=react&logoColor=151217"/>
+  <img src="https://img.shields.io/badge/Next.js-E8C9D8?style=flat-square&logo=next.js&logoColor=5A3D5E"/>
+  <img src="https://img.shields.io/badge/Node.js-5A3D5E?style=flat-square&logo=node.js&logoColor=F7F4F5"/>
+  <img src="https://img.shields.io/badge/Python-8D6A91?style=flat-square&logo=python&logoColor=F7F4F5"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-B9A0C9?style=flat-square&logo=postgresql&logoColor=151217"/>
+  <img src="https://img.shields.io/badge/Docker-E8C9D8?style=flat-square&logo=docker&logoColor=5A3D5E"/>
+</p>
+
+<details>
+<summary align="center"><b>ver stack completo</b></summary>
+<br/>
+<p align="center">
+frontend<br/>
+<img src="https://img.shields.io/badge/HTML5-5A3D5E?style=for-the-badge&logo=html5&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/CSS3-8D6A91?style=for-the-badge&logo=css3&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/JavaScript-B9A0C9?style=for-the-badge&logo=javascript&logoColor=151217"/> <img src="https://img.shields.io/badge/TypeScript-E8C9D8?style=for-the-badge&logo=typescript&logoColor=5A3D5E"/> <img src="https://img.shields.io/badge/React-8D6A91?style=for-the-badge&logo=react&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Next.js-5A3D5E?style=for-the-badge&logo=next.js&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Tailwind-B9A0C9?style=for-the-badge&logo=tailwind-css&logoColor=151217"/> <img src="https://img.shields.io/badge/Bootstrap-8D6A91?style=for-the-badge&logo=bootstrap&logoColor=F7F4F5"/>
+<br/><br/>
+backend<br/>
+<img src="https://img.shields.io/badge/Node.js-5A3D5E?style=for-the-badge&logo=node.js&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Express-8D6A91?style=for-the-badge&logo=express&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Python-B9A0C9?style=for-the-badge&logo=python&logoColor=151217"/> <img src="https://img.shields.io/badge/FastAPI-E8C9D8?style=for-the-badge&logo=fastapi&logoColor=5A3D5E"/> <img src="https://img.shields.io/badge/Django-5A3D5E?style=for-the-badge&logo=django&logoColor=F7F4F5"/>
+<br/><br/>
+database & data<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-8D6A91?style=for-the-badge&logo=postgresql&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/MySQL-B9A0C9?style=for-the-badge&logo=mysql&logoColor=151217"/> <img src="https://img.shields.io/badge/SQLite-E8C9D8?style=for-the-badge&logo=sqlite&logoColor=5A3D5E"/> <img src="https://img.shields.io/badge/Pandas-8D6A91?style=for-the-badge&logo=pandas&logoColor=F7F4F5"/>
+<br/><br/>
+tools & deployment<br/>
+<img src="https://img.shields.io/badge/Git-5A3D5E?style=for-the-badge&logo=git&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/GitHub-8D6A91?style=for-the-badge&logo=github&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Vercel-B9A0C9?style=for-the-badge&logo=vercel&logoColor=151217"/> <img src="https://img.shields.io/badge/Render-5A3D5E?style=for-the-badge&logo=render&logoColor=F7F4F5"/> <img src="https://img.shields.io/badge/Docker-B9A0C9?style=for-the-badge&logo=docker&logoColor=151217"/>
+</p>
+</details>
+
+<br/>
+
+### `// github activity`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8C9D8&icon_color=B9A0C9&text_color=918A91" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleidys16&layout=compact&hide_border=true&bg_color=151217&title_color=E8C9D8&text_color=918A91&langs_count=6" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=B9A0C9&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5" width="480" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>♡ built with code, curiosity & a little bit of lavender — <a href="mailto:lariosbleidys@gmail.com">let's talk</a></sub>
 </p>
