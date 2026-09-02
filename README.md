@@ -52,7 +52,7 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 </p>
 
-<h3 align="center"><code>// projects</code></h3>
+<h3 align="center"><code>// projects & stats</code></h3>
 
 <table>
 <tr>
