@@ -28,15 +28,15 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 <table>
 <tr>
+<td align="center" width="35%">
+<img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="170" alt="coding gif"/>
+</td>
 <td width="65%" valign="top">
 
 **Currently building**
 
 Learning and building **mobile apps in Android Studio** — including a **Wallet app** and **ClimaTrack**, exploring native Android development alongside my web stack.
 
-</td>
-<td align="center" width="35%">
-<img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="170" alt="coding gif"/>
 </td>
 </tr>
 </table>
