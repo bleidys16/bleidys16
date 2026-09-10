@@ -51,10 +51,10 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 
 **✦ tech stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,py,fastapi,django" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github" /><br/>
-<img src="https://skillicons.dev/icons?i=vercel,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,nodejs,express,py,fastapi" /><br/>
+<img src="https://skillicons.dev/icons?i=django,java,php,postgres,mysql,sqlite,supabase" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 
 </td>
 <td width="58%" valign="top">
@@ -63,21 +63,21 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 
 🛠️ **[Soportix](https://github.com/bleidys16/Soportix)**
 Helpdesk empresarial con tickets y roles. *En desarrollo.*
-`React` `Node.js` `Express` `PostgreSQL`
+`Django REST` `Angular` `PostgreSQL` `JWT`
 [![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=render&logoColor=151217)](https://soportix-1.onrender.com/)
 
 ---
 
 🏥 **[VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
 Gestión clínica con arquitectura CRUD.
-`React` `Node.js` `Express`
+`Django REST` `PostgreSQL` `Bootstrap` `scikit-learn`
 [![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://vita-clinical.onrender.com/)
 
 ---
 
 🎬 **[CineApp](https://github.com/bleidys16/CineApp)**
 Plataforma de cine con auth JWT, TMDB y tickets QR.
-`React` `Node.js` `PostgreSQL`
+`React` `Vite` `Node.js` `PostgreSQL`
 [![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://cine-psi-lilac.vercel.app/)
 
 ---
