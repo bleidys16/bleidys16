@@ -35,7 +35,7 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 **Currently building ✦**
 
-Learning and building **mobile apps in Android Studio**, including a **Wallet app** and **ClimaTrack**, exploring native Android development.
+Learning and building **mobile apps in Android Studio**, including **[EasyWallet](https://github.com/bleidys16/EasyWallet)** and **[ClimaTrack](https://github.com/bleidys16/ClimaTrack)**, exploring native Android development.
 
 I'm a Software Analysis and Development student at **SENA**, and currently pursuing a degree in **Software & Data Engineering** at IU Digital de Antioquia. I'm drawn to **Machine Learning** and data analysis, and I care about frontend work that stays closely integrated with solid backend logic.
 
@@ -43,18 +43,16 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 </tr>
 </table>
 
-<h3 align="center"><code>// tech stack & projects</code></h3>
-
 <table>
 <tr>
 <td width="42%" valign="top">
 
 **✦ tech stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,nodejs,express,py,fastapi" /><br/>
-<img src="https://skillicons.dev/icons?i=django,java,php,postgres,mysql,sqlite,supabase" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" /><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,vite,nodejs,express" /><br/>
+<img src="https://skillicons.dev/icons?i=py,django,java,php,flutter,postgres" /><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,supabase,git,github,vercel,docker" />
 
 </td>
 <td width="58%" valign="top">
