@@ -43,55 +43,60 @@ I'm a Software Analysis and Development student at **SENA**, and currently pursu
 </tr>
 </table>
 
-<h3 align="center"><code>// tech stack</code></h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,fastapi,django,postgres,mysql,sqlite" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
-</p>
-
-<h3 align="center"><code>// projects & stats</code></h3>
+<h3 align="center"><code>// tech stack & projects</code></h3>
 
 <table>
 <tr>
+<td width="42%" valign="top">
+
+**✦ tech stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,py,fastapi,django" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github" /><br/>
+<img src="https://skillicons.dev/icons?i=vercel,docker" />
+
+</td>
 <td width="58%" valign="top">
 
-**🎬 [CineApp](https://github.com/bleidys16/CineApp)**
-Plataforma de cine con auth JWT, TMDB y tickets QR.
-`React` `Node.js` `PostgreSQL`
-[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://cine-psi-lilac.vercel.app/)
+**✦ projects**
+
+🛠️ **[Soportix](https://github.com/bleidys16/Soportix)**
+Helpdesk empresarial con tickets y roles. *En desarrollo.*
+`React` `Node.js` `Express` `PostgreSQL`
+[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=render&logoColor=151217)](https://soportix-1.onrender.com/)
 
 ---
 
-**📊 [Analyzor](https://github.com/bleidys16/Analyzor)**
-Análisis de CSV con visualizaciones y NLP.
-`Python` `React` `Vite`
-[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
-
----
-
-**🏥 [VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
+🏥 **[VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
 Gestión clínica con arquitectura CRUD.
 `React` `Node.js` `Express`
 [![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://vita-clinical.onrender.com/)
 
 ---
 
-**🛠️ [Soportix](https://github.com/bleidys16/Soportix)**
-Helpdesk empresarial con tickets y roles. *En desarrollo.*
+🎬 **[CineApp](https://github.com/bleidys16/CineApp)**
+Plataforma de cine con auth JWT, TMDB y tickets QR.
+`React` `Node.js` `PostgreSQL`
+[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://cine-psi-lilac.vercel.app/)
 
-</td>
-<td align="center" width="42%" valign="top">
+---
 
-<img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" width="100%" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5" width="100%" alt="GitHub Streak" />
+📊 **[Analyzor](https://github.com/bleidys16/Analyzor)**
+Análisis de CSV con visualizaciones y NLP.
+`Python` `React` `Vite`
+[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
 
 </td>
 </tr>
 </table>
+
+<h3 align="center"><code>// stats</code></h3>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5" width="48%" alt="GitHub Streak" />
+</p>
 
 <br/>
 
