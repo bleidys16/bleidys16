@@ -93,7 +93,7 @@ Análisis de CSV con visualizaciones y NLP.
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=3" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=5" width="48%" alt="GitHub Streak" />
 </p>
 
 <br/>
