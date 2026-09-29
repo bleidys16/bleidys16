@@ -73,10 +73,11 @@ Gestión clínica con arquitectura CRUD.
 
 ---
 
-🎬 **[CineApp](https://github.com/bleidys16/CineApp)**
-Plataforma de cine con auth JWT, TMDB y tickets QR.
-`React` `Vite` `Node.js` `PostgreSQL`
-[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://cine-psi-lilac.vercel.app/)
+🧠 **[Intellixy](https://github.com/bleidys16/Intellixy)**
+Estudio con IA: quizzes, flashcards y tutor con citas desde tus PDF y apuntes. Web y Android.
+`Next.js` `TypeScript` `PostgreSQL` `Capacitor`
+[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://intellixy-web.vercel.app)
+[Descarga el APK en el repo](https://github.com/bleidys16/Intellixy)
 
 ---
 
@@ -93,7 +94,7 @@ Análisis de CSV con visualizaciones y NLP.
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=918A91" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=5" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=6" width="48%" alt="GitHub Streak" />
 </p>
 
 <br/>
