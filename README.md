@@ -69,7 +69,7 @@ Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digi
 **✦ projects**
 
 🛠️ **[Soportix](https://github.com/bleidys16/Soportix)**
-Helpdesk empresarial con tickets y roles. *En desarrollo.*
+Helpdesk empresarial con tickets y roles.
 `Django REST` `Angular` `PostgreSQL` `JWT`
 [![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=render&logoColor=151217)](https://soportix-1.onrender.com/)
 
