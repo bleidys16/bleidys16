@@ -33,11 +33,16 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 </td>
 <td width="65%" valign="top">
 
-**Currently building ✦**
+**Achievements & Highlights ✦**
 
-Learning and building **mobile apps in Android Studio**, including **[EasyWallet](https://github.com/bleidys16/EasyWallet)** and **[ClimaTrack](https://github.com/bleidys16/ClimaTrack)**, exploring native Android development.
+🏆 **2do Puesto — Bootcamp Fábrica Digital e Inteligencia Artificial (Reto 24h)**
+Desarrollo de una solución industrial para **SuperBrix** (App móvil + backend) para digitalizar el control de tiempos de taller en tiempo real. 
+- **Qué resuelve:** Elimina el reporte manual/tardío en papel capturando interrupciones en el instante mediante 1-2 toques o notas de voz en lenguaje natural, evitando categorizaciones técnicas complejas al operario.
+- **Arquitectura & Flujo:** Registro rápido de operario + orden de producción (OP#) y cronómetro activo. Al pausar, el backend en **Google Apps Script** procesa el reporte con **Groq AI** para clasificar la causa raíz en vivo (con fallback a clasificador local por palabras clave), registrándolo en **Google Sheets** para alimentar métricas y análisis de Pareto en **Looker Studio**.
 
-I'm a Software Analysis and Development student at **SENA**, and currently pursuing a degree in **Software & Data Engineering** at IU Digital de Antioquia. I'm drawn to **Machine Learning** and data analysis, and I care about frontend work that stays closely integrated with solid backend logic.
+---
+
+Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digital de Antioquia**, and studying Software Analysis and Development at **SENA**. Passionate about **Machine Learning**, data analysis, and frontend development with solid backend architecture.
 
 </td>
 </tr>
@@ -84,7 +89,7 @@ Estudio con IA: quizzes, flashcards y tutor con citas desde tus PDF y apuntes. W
 📊 **[Analyzor](https://github.com/bleidys16/Analyzor)**
 Análisis de CSV con visualizaciones y NLP.
 `Python` `React` `Vite`
-[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
+[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://analyzor.vercel.app/)
 
 </td>
 </tr>
