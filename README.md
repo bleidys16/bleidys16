@@ -35,14 +35,12 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 
 **Achievements & Highlights ✦**
 
-🏆 **2do Puesto — Bootcamp Fábrica Digital e Inteligencia Artificial (Reto 24h)**
-Desarrollo de una solución industrial para **SuperBrix** (App móvil + backend) para digitalizar el control de tiempos de taller en tiempo real. 
-- **Qué resuelve:** Elimina el reporte manual/tardío en papel capturando interrupciones en el instante mediante 1-2 toques o notas de voz en lenguaje natural, evitando categorizaciones técnicas complejas al operario.
-- **Arquitectura & Flujo:** Registro rápido de operario + orden de producción (OP#) y cronómetro activo. Al pausar, el backend en **Google Apps Script** procesa el reporte con **Groq AI** para clasificar la causa raíz en vivo (con fallback a clasificador local por palabras clave), registrándolo en **Google Sheets** para alimentar métricas y análisis de Pareto en **Looker Studio**.
+🏆 **2nd Place Winner — Digital Factory & AI Bootcamp (24h Hackathon)**  
+Built an industrial IoT/mobile solution for **SuperBrix** to track shop-floor downtime in real time via quick taps or voice logs.  
+- **Stack:** Mobile App, Google Apps Script, Groq API (AI classification), Google Sheets & Looker Studio.  
+- **Impact:** Replaced manual paper logging with instant NLP event categorization and live Pareto dashboards.
 
----
-
-Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digital de Antioquia**, and studying Software Analysis and Development at **SENA**. Passionate about **Machine Learning**, data analysis, and frontend development with solid backend architecture.
+Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digital de Antioquia**, and studying Software Analysis and Development at **SENA**. Passionate about **Machine Learning**, data analysis, and bridging frontend interfaces with robust backend architectures.
 
 </td>
 </tr>
@@ -54,10 +52,16 @@ Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digi
 
 **✦ tech stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" /><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,vite,nodejs,express" /><br/>
-<img src="https://skillicons.dev/icons?i=py,django,java,php,flutter,postgres" /><br/>
-<img src="https://skillicons.dev/icons?i=sqlite,supabase,git,github,vercel,docker" />
+<sub>**Frontend**</sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap,vite,flutter" /><br/>
+
+<sub>**Backend & Database**</sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,java,php" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" /><br/>
+
+<sub>**Cloud, DevOps & Tools**</sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
 
 </td>
 <td width="58%" valign="top">
@@ -89,7 +93,7 @@ Estudio con IA: quizzes, flashcards y tutor con citas desde tus PDF y apuntes. W
 📊 **[Analyzor](https://github.com/bleidys16/Analyzor)**
 Análisis de CSV con visualizaciones y NLP.
 `Python` `React` `Vite`
-[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://analyzor.vercel.app/)
+[![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
 
 </td>
 </tr>
