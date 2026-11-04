@@ -6,8 +6,8 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 #content{animation:master 14.0s infinite}
 @keyframes master{0%{opacity:0}3%{opacity:1}93%{opacity:1}97%{opacity:0}100%{opacity:0}}
 @keyframes k1{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1310.4px)}}
-@keyframes k2{0%,4.429%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1411.2px)}}
-@keyframes k3{0%,5.286%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.429%,100%{transform:translateY(-1814.4px)}}
+@keyframes k2{0%,4.429%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1713.6px)}}
+@keyframes k3{0%,5.286%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.429%,100%{transform:translateY(-1512.0px)}}
 @keyframes k4{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:0}}
 @keyframes k5{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @keyframes k6{0%,4.643%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{transform:translateY(-644.0px)}}
@@ -70,7 +70,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="40" y="54" font-size="27" font-weight="800" fill="#F7F4F5" letter-spacing="-0.4">GitHub stats</text>
 <text x="40" y="78" font-size="14" fill="#918A91">Bleidys Larios • Full Stack Developer &amp; Data Student</text>
 
-<!-- CARD 1: TOTAL CONTRIBUTIONS (348) -->
+<!-- CARD 1: TOTAL CONTRIBUTIONS (375) -->
 <rect x="40" y="96" width="300" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.03" stroke="#E8A9C4" stroke-opacity="0.12" stroke-width="1" />
 <text x="68" y="138" font-size="15" font-weight="600" fill="#918A91">Total contributions</text>
 <clipPath id="c1_3_218_68"><rect x="64.0" y="156.1" width="143.0" height="80.6" /></clipPath>
@@ -97,7 +97,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="90.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="90.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:k2 14.0s infinite;transform:translateY(-1411.2px)">
+<g style="animation:k2 14.0s infinite;transform:translateY(-1713.6px)">
 <text x="135.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="135.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="135.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -119,7 +119,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="135.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="135.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:k3 14.0s infinite;transform:translateY(-1814.4px)">
+<g style="animation:k3 14.0s infinite;transform:translateY(-1512.0px)">
 <text x="180.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="180.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="180.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
