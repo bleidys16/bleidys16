@@ -68,7 +68,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 
 <g id="content">
 <text x="40" y="54" font-size="27" font-weight="800" fill="#F7F4F5" letter-spacing="-0.4">GitHub stats</text>
-<text x="40" y="78" font-size="14" fill="#918A91">Bleidys Larios • Full Stack Developer & Data Student</text>
+<text x="40" y="78" font-size="14" fill="#918A91">Bleidys Larios • Full Stack Developer &amp; Data Student</text>
 
 <!-- CARD 1: TOTAL CONTRIBUTIONS (348) -->
 <rect x="40" y="96" width="300" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.03" stroke="#E8A9C4" stroke-opacity="0.12" stroke-width="1" />
@@ -199,7 +199,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="472" y="229" text-anchor="middle" font-size="12" font-weight="600" fill="#918A91">days</text>
 <text x="574" y="174" font-size="19" font-weight="700" fill="#F7F4F5">Current streak</text>
 <text x="574" y="200" font-size="14" fill="#E8A9C4" font-weight="600">Nov 1 to Nov 2</text>
-<text x="574" y="228" font-size="13" fill="#918A91">Building & shipping daily</text>
+<text x="574" y="228" font-size="13" fill="#918A91">Building &amp; shipping daily</text>
 
 <!-- CARD 3: LONGEST STREAK (07) -->
 <rect x="860" y="96" width="300" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.03" stroke="#E8A9C4" stroke-opacity="0.12" stroke-width="1" />
@@ -269,7 +269,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
   <text x="92" y="678" font-size="14" fill="#F7F4F5">JavaScript (React / Node)</text>
   <text x="312" y="678" text-anchor="end" font-size="14" font-weight="600" fill="#918A91">18%</text>
   <circle cx="74" cy="704" r="5" fill="#D48FB0" />
-  <text x="92" y="709" font-size="14" fill="#F7F4F5">HTML & Tailwind CSS</text>
+  <text x="92" y="709" font-size="14" fill="#F7F4F5">HTML &amp; Tailwind CSS</text>
   <text x="312" y="709" text-anchor="end" font-size="14" font-weight="600" fill="#918A91">12%</text>
   <circle cx="74" cy="735" r="5" fill="#5A3D5E" />
   <text x="92" y="740" font-size="14" fill="#F7F4F5">Dart / SQL / Others</text>
