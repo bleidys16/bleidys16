@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/header.svg?v=4"
+    src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/header.svg?v=5"
     alt="Bleidys Larios Header" width="100%"
   />
 </p>
@@ -39,7 +39,7 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 Developed an industrial mobile app for **SuperBrix** to track shop-floor downtime in real time via voice logs and Groq NLP, replacing paper records with live Pareto dashboards.
 
 🎓 **Education & Focus**  
-3rd semester **Software & Data Engineering** at **IU Digital** & ADSO at **SENA**. Focused on **Machine Learning**, data analysis, and building full-stack products from UI to database.
+Studying ADSO at **SENA** & 3rd semester **Software & Data Engineering** at **IU Digital**. Focused on **Machine Learning**, data analysis, and building full-stack products from UI to database.
 
 </td>
 </tr>
@@ -101,13 +101,13 @@ Análisis de CSV con visualizaciones y NLP.
 <h3 align="center"><code>// github stats</code></h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/github-stats.svg?v=4" width="100%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/github-stats.svg?v=5" width="100%" alt="GitHub stats" />
 </p>
 
 <h3 align="center"><code>// spent my time</code></h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/spent-my-time.svg?v=4" width="100%" alt="Spent my time" />
+  <img src="https://raw.githubusercontent.com/bleidys16/bleidys16/main/assets/spent-my-time.svg?v=5" width="100%" alt="Spent my time" />
 </p>
 
 <br/>
