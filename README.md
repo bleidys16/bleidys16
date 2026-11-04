@@ -102,13 +102,13 @@ Análisis de CSV con visualizaciones y NLP.
 <h3 align="center"><code>// github stats</code></h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=6" width="60%" alt="GitHub Streak" />
+  <img src="assets/github-stats.svg" width="100%" alt="GitHub stats" />
 </p>
 
 <h3 align="center"><code>// spent my time</code></h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bleidys16&theme=tokyonight" width="90%" alt="Spent My Time & Activity" />
+  <img src="assets/spent-my-time.svg" width="100%" alt="Spent my time" />
 </p>
 
 <br/>
