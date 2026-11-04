@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Bleidys Larios — Full Stack Developer &amp; Data Student</title>
+  <desc id="header-desc">Interactive developer terminal header with live typing animation and floating tech stack badges.</desc>
+
+  <defs>
+    <style><![CDATA[
+      .sans { font-family: 'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', Inter, system-ui, -apple-system, sans-serif; }
+      .mono { font-family: 'DM Mono', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      
+      /* Card floating animations */
+      .card-float-1 { animation: float1 5.0s ease-in-out infinite; transform-origin: center; }
+      .card-float-2 { animation: float2 5.6s ease-in-out infinite 0.7s; transform-origin: center; }
+      .card-float-3 { animation: float3 6.0s ease-in-out infinite 1.4s; transform-origin: center; }
+      .card-float-4 { animation: float4 5.3s ease-in-out infinite 2.1s; transform-origin: center; }
+
+      @keyframes float1 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-7px) rotate(0.8deg); } }
+      @keyframes float2 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(6px) rotate(-0.6deg); } }
+      @keyframes float3 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-6px) rotate(-0.8deg); } }
+      @keyframes float4 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(7px) rotate(0.6deg); } }
+
+      /* Pulse and glows */
+      .pulse-slow { animation: pulseGlow 4s ease-in-out infinite; }
+      @keyframes pulseGlow { 0%, 100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 0.75; transform: scale(1.05); } }
+
+      .cursor-blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+      /* Orbiting sparkles */
+      .sparkle { animation: rise 7s ease-in infinite; opacity: 0; }
+      @keyframes rise {
+        0% { opacity: 0; transform: translateY(0px) scale(0.6); }
+        30% { opacity: 0.9; }
+        80% { opacity: 0.6; }
+        100% { opacity: 0; transform: translateY(-80px) scale(1.2); }
+      }
+
+      /* Atom spin */
+      .spin-atom { animation: spin 14s linear infinite; transform-origin: 18px 18px; }
+      @keyframes spin { 100% { transform: rotate(360deg); } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .card-float-1, .card-float-2, .card-float-3, .card-float-4,
+        .pulse-slow, .cursor-blink, .sparkle, .spin-atom { animation: none !important; }
+      }
+    ]]></style>
+
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141016" />
+      <stop offset="50%" stop-color="#1B1421" />
+      <stop offset="100%" stop-color="#231929" />
+    </linearGradient>
+
+    <radialGradient id="h-glowA" cx="15%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#E8A9C4" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#E8A9C4" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="h-glowB" cx="85%" cy="80%" r="55%">
+      <stop offset="0%" stop-color="#8D6A91" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#8D6A91" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="h-glowCenter" cx="75%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#B9A0C9" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#B9A0C9" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="h-dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#F7F4F5" fill-opacity="0.04" />
+    </pattern>
+
+    <linearGradient id="title-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F7F4F5" />
+      <stop offset="45%" stop-color="#E8C9D8" />
+      <stop offset="100%" stop-color="#E8A9C4" />
+    </linearGradient>
+
+    <linearGradient id="card-edge-pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8A9C4" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#8D6A91" stop-opacity="0.2" />
+    </linearGradient>
+
+    <linearGradient id="card-edge-purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B9A0C9" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#5A3D5E" stop-opacity="0.2" />
+    </linearGradient>
+
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="h-frame">
+      <rect width="1200" height="350" rx="26" />
+    </clipPath>
+
+    <!-- Typing Text Clips (4 phrases cycling in 14.0s) -->
+    <clipPath id="type-clip-1">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;0;470;470;0;0" keyTimes="0;0.02;0.12;0.23;0.25;1" dur="14.0s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="type-clip-2">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;0;0;470;470;0;0" keyTimes="0;0.25;0.27;0.37;0.48;0.50;1" dur="14.0s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="type-clip-3">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;0;0;470;470;0;0" keyTimes="0;0.50;0.52;0.62;0.73;0.75;1" dur="14.0s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="type-clip-4">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;0;0;470;470;0;0" keyTimes="0;0.75;0.77;0.87;0.97;0.99;1" dur="14.0s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- BACKGROUND AND ATMOSPHERE -->
+  <g clip-path="url(#h-frame)">
+    <rect width="1200" height="350" fill="url(#bg-grad)" />
+    <rect width="1200" height="350" fill="url(#h-dots)" />
+    <rect width="1200" height="350" fill="url(#h-glowA)" />
+    <rect width="1200" height="350" fill="url(#h-glowB)" />
+    <rect width="1200" height="350" fill="url(#h-glowCenter)" />
+
+    <!-- Ambient sparkle particles -->
+    <circle class="sparkle" cx="690" cy="270" r="2" fill="#E8A9C4" style="animation-delay: -1s;" />
+    <circle class="sparkle" cx="760" cy="180" r="1.5" fill="#B9A0C9" style="animation-delay: -3.5s;" />
+    <circle class="sparkle" cx="1120" cy="260" r="2.5" fill="#E8A9C4" style="animation-delay: -2s;" />
+    <circle class="sparkle" cx="920" cy="90" r="1.8" fill="#F7F4F5" style="animation-delay: -5s;" />
+  </g>
+
+  <!-- OUTER BORDER -->
+  <rect x="0.5" y="0.5" width="1199" height="349" rx="26" fill="none" stroke="#E8A9C4" stroke-opacity="0.18" stroke-width="1.2" />
+
+  <!-- TOP TERMINAL BAR -->
+  <g transform="translate(44, 30)">
+    <!-- Window controls -->
+    <circle cx="10" cy="10" r="5" fill="#E8A9C4" />
+    <circle cx="28" cy="10" r="5" fill="#B9A0C9" />
+    <circle cx="46" cy="10" r="5" fill="#8D6A91" />
+
+    <!-- Terminal Path Badge -->
+    <text class="mono" x="72" y="14" font-size="13" font-weight="600" fill="#918A91">
+      <tspan fill="#E8A9C4">bleidys@dev</tspan>:<tspan fill="#B9A0C9">~/workspace</tspan><tspan fill="#918A91"> (main) ✦</tspan>
+    </text>
+
+    <!-- Status pill on the right -->
+    <g transform="translate(860, -4)">
+      <rect width="250" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#E8A9C4" stroke-opacity="0.22" stroke-width="1" />
+      <circle cx="16" cy="14" r="4" fill="#10B981" />
+      <circle cx="16" cy="14" r="4" fill="#10B981" opacity="0.4" class="pulse-slow" />
+      <text class="sans" x="28" y="18" font-size="12" font-weight="600" fill="#F7F4F5">Open to opportunities ♡</text>
+    </g>
+  </g>
+
+  <!-- LEFT HERO SECTION: GREETING AND INFO -->
+  <g transform="translate(44, 82)">
+    <!-- Small kicker tag -->
+    <text class="mono" x="0" y="32" font-size="13" font-weight="700" fill="#E8A9C4" letter-spacing="2">✦ FULL STACK &amp; DATA</text>
+
+    <!-- Big Headline Name -->
+    <text class="sans" x="0" y="80" font-size="46" font-weight="800" fill="url(#title-gradient)" letter-spacing="-0.8">
+      Bleidys Larios
+    </text>
+
+    <!-- Subtitle role -->
+    <text class="sans" x="0" y="112" font-size="17" font-weight="500" fill="#B9A0C9">
+      Software &amp; Data Engineering Student <tspan fill="#918A91">•</tspan> 24h Hackathon Winner 🏆
+    </text>
+
+    <!-- Short bio tagline -->
+    <text class="sans" x="0" y="136" font-size="14.5" fill="#918A91">
+      Bridging reactive frontend interfaces with solid backend APIs and data insights.
+    </text>
+
+    <!-- INTERACTIVE TYPING TERMINAL BOX -->
+    <g transform="translate(0, 160)">
+      <rect width="570" height="66" rx="14" fill="#110E14" stroke="#3D3046" stroke-width="1.3" />
+      <rect width="570" height="66" rx="14" fill="none" stroke="#E8A9C4" stroke-opacity="0.1" stroke-width="1" />
+
+      <!-- Command line prefix -->
+      <text class="mono" x="20" y="27" font-size="12" font-weight="600" fill="#918A91">
+        <tspan fill="#E8A9C4">➜</tspan> <tspan fill="#B9A0C9">portfolio</tspan> <tspan fill="#D48FB0">git:(main)</tspan> <tspan fill="#F7F4F5">cat focus.txt</tspan>
+      </text>
+
+      <!-- Live Typing Animated Text Area -->
+      <g transform="translate(20, 50)">
+        <text class="mono" x="0" y="0" font-size="14.5" font-weight="600" fill="#E8A9C4">›</text>
+
+        <!-- Phrase 1 -->
+        <g clip-path="url(#type-clip-1)">
+          <text class="mono" x="18" y="0" font-size="14" font-weight="600" fill="#F7F4F5">
+            Building interfaces that make data make sense <tspan fill="#E8A9C4">✨</tspan>
+          </text>
+        </g>
+
+        <!-- Phrase 2 -->
+        <g clip-path="url(#type-clip-2)">
+          <text class="mono" x="18" y="0" font-size="14" font-weight="600" fill="#F7F4F5">
+            Full Stack Web &amp; Mobile: React, Next.js, Django <tspan fill="#E8A9C4">🚀</tspan>
+          </text>
+        </g>
+
+        <!-- Phrase 3 -->
+        <g clip-path="url(#type-clip-3)">
+          <text class="mono" x="18" y="0" font-size="14" font-weight="600" fill="#F7F4F5">
+            AI Classification, Pareto dashboards &amp; NLP <tspan fill="#B9A0C9">🧠</tspan>
+          </text>
+        </g>
+
+        <!-- Phrase 4 -->
+        <g clip-path="url(#type-clip-4)">
+          <text class="mono" x="18" y="0" font-size="14" font-weight="600" fill="#F7F4F5">
+            Turning real problems into digital solutions <tspan fill="#E8A9C4">♡</tspan>
+          </text>
+        </g>
+
+        <!-- Blinking cursor -->
+        <rect class="cursor-blink" x="430" y="-13" width="8" height="16" rx="2" fill="#E8A9C4" />
+      </g>
+    </g>
+  </g>
+
+  <!-- RIGHT SECTION: FLOATING TECH STACK BADGES AND CONSTELLATION -->
+  <!-- Constellation connective lines -->
+  <path d="M 760,115 C 840,110 880,165 960,150" fill="none" stroke="#E8A9C4" stroke-opacity="0.15" stroke-dasharray="3 4" stroke-width="1.2" />
+  <path d="M 960,160 C 900,200 870,200 770,235" fill="none" stroke="#B9A0C9" stroke-opacity="0.15" stroke-dasharray="3 4" stroke-width="1.2" />
+  <path d="M 770,245 C 840,265 890,260 965,275" fill="none" stroke="#8D6A91" stroke-opacity="0.15" stroke-dasharray="3 4" stroke-width="1.2" />
+
+  <!-- BADGE 1: REACT AND NEXT.JS (Top Left Floating) -->
+  <g class="card-float-1" transform="translate(660, 85)">
+    <rect width="215" height="60" rx="16" fill="#1A1420" fill-opacity="0.88" stroke="url(#card-edge-pink)" stroke-width="1.4" />
+    <!-- React Atom Icon -->
+    <g transform="translate(18, 12)">
+      <circle cx="18" cy="18" r="3.2" fill="#E8A9C4" />
+      <g class="spin-atom">
+        <ellipse cx="18" cy="18" rx="14" ry="5.5" fill="none" stroke="#E8A9C4" stroke-width="1.6" />
+        <ellipse cx="18" cy="18" rx="14" ry="5.5" fill="none" stroke="#E8A9C4" stroke-width="1.6" transform="rotate(60 18 18)" />
+        <ellipse cx="18" cy="18" rx="14" ry="5.5" fill="none" stroke="#E8A9C4" stroke-width="1.6" transform="rotate(120 18 18)" />
+      </g>
+    </g>
+    <text class="sans" x="62" y="27" font-size="15" font-weight="700" fill="#F7F4F5">React &amp; Next.js</text>
+    <text class="sans" x="62" y="44" font-size="12" font-weight="500" fill="#918A91">Frontend UI &amp; SSR</text>
+  </g>
+
+  <!-- BADGE 2: PYTHON AND DATA / AI (Top Right Floating) -->
+  <g class="card-float-2" transform="translate(900, 120)">
+    <rect width="230" height="60" rx="16" fill="#1A1420" fill-opacity="0.88" stroke="url(#card-edge-purple)" stroke-width="1.4" />
+    <!-- Python Stylized Icon -->
+    <g transform="translate(18, 12)">
+      <rect width="34" height="34" rx="9" fill="#241B2C" />
+      <!-- Stylized snake paths -->
+      <path d="M12 9h7a4 4 0 0 1 4 4v3h-7a4 4 0 0 0-4 4v1h-1a4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4z" fill="#B9A0C9" />
+      <circle cx="14.5" cy="13.5" r="1.2" fill="#141016" />
+      <path d="M22 25h-7a4 4 0 0 1-4-4v-3h7a4 4 0 0 0 4-4v-1h1a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4z" fill="#E8A9C4" />
+      <circle cx="19.5" cy="20.5" r="1.2" fill="#141016" />
+    </g>
+    <text class="sans" x="62" y="27" font-size="15" font-weight="700" fill="#F7F4F5">Python &amp; Data AI</text>
+    <text class="sans" x="62" y="44" font-size="12" font-weight="500" fill="#918A91">ML, NLP &amp; Analytics</text>
+  </g>
+
+  <!-- BADGE 3: DJANGO REST AND POSTGRES (Bottom Left Floating) -->
+  <g class="card-float-3" transform="translate(680, 205)">
+    <rect width="210" height="60" rx="16" fill="#1A1420" fill-opacity="0.88" stroke="url(#card-edge-purple)" stroke-width="1.4" />
+    <!-- Django / Backend Icon -->
+    <g transform="translate(18, 12)">
+      <rect width="34" height="34" rx="9" fill="#241B2C" />
+      <!-- Database disk stacks -->
+      <ellipse cx="17" cy="11" rx="9" ry="3.5" fill="none" stroke="#B9A0C9" stroke-width="1.6" />
+      <path d="M8 11v6c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5v-6" fill="none" stroke="#B9A0C9" stroke-width="1.6" />
+      <path d="M8 17v6c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5v-6" fill="none" stroke="#E8A9C4" stroke-width="1.6" />
+    </g>
+    <text class="sans" x="62" y="27" font-size="15" font-weight="700" fill="#F7F4F5">Django REST</text>
+    <text class="sans" x="62" y="44" font-size="12" font-weight="500" fill="#918A91">PostgreSQL &amp; JWT</text>
+  </g>
+
+  <!-- BADGE 4: TYPESCRIPT AND MODERN TOOLS (Bottom Right Floating) -->
+  <g class="card-float-4" transform="translate(915, 240)">
+    <rect width="220" height="60" rx="16" fill="#1A1420" fill-opacity="0.88" stroke="url(#card-edge-pink)" stroke-width="1.4" />
+    <!-- Code / Modern stack Icon -->
+    <g transform="translate(18, 12)">
+      <rect width="34" height="34" rx="9" fill="#241B2C" />
+      <!-- Brackets and spark -->
+      <path d="M14 11l-5 6 5 6" fill="none" stroke="#E8A9C4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M20 11l5 6-5 6" fill="none" stroke="#B9A0C9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="17" cy="17" r="1.5" fill="#F7F4F5" />
+    </g>
+    <text class="sans" x="62" y="27" font-size="15" font-weight="700" fill="#F7F4F5">TypeScript &amp; Mobile</text>
+    <text class="sans" x="62" y="44" font-size="12" font-weight="500" fill="#918A91">Angular &amp; Capacitor</text>
+  </g>
+</svg>
