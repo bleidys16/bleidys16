@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="header-title header-desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-labelledby="header-title header-desc">
   <title id="header-title">Bleidys Larios — Full Stack Developer &amp; Data Student</title>
   <desc id="header-desc">Terminal header for Bleidys Larios — Software &amp; Data Engineering Student</desc>
 
@@ -7,11 +7,17 @@
       .sans { font-family: 'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', Inter, system-ui, -apple-system, sans-serif; }
       .mono { font-family: 'DM Mono', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
 
-      .pulse-slow { animation: pulseGlow 3s ease-in-out infinite; transform-origin: center; }
-      @keyframes pulseGlow { 0%, 100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 0.85; transform: scale(1.15); } }
+      /* Floating Ambient Sparkles */
+      .sparkle { animation: rise 6.5s ease-in infinite; opacity: 0; }
+      @keyframes rise {
+        0% { opacity: 0; transform: translateY(0px) scale(0.6); }
+        30% { opacity: 0.85; }
+        70% { opacity: 0.55; }
+        100% { opacity: 0; transform: translateY(-65px) scale(1.15); }
+      }
 
       @media (prefers-reduced-motion: reduce) {
-        .pulse-slow { animation: none !important; }
+        .sparkle { animation: none !important; }
       }
     ]]></style>
 
@@ -42,20 +48,32 @@
     </linearGradient>
 
     <clipPath id="h-frame">
-      <rect width="1200" height="230" rx="24" />
+      <rect width="1200" height="190" rx="24" />
     </clipPath>
   </defs>
 
   <!-- BACKGROUND & ATMOSPHERE -->
   <g clip-path="url(#h-frame)">
-    <rect width="1200" height="230" fill="url(#bg-grad)" />
-    <rect width="1200" height="230" fill="url(#h-dots)" />
-    <rect width="1200" height="230" fill="url(#h-glowA)" />
-    <rect width="1200" height="230" fill="url(#h-glowB)" />
+    <rect width="1200" height="190" fill="url(#bg-grad)" />
+    <rect width="1200" height="190" fill="url(#h-dots)" />
+    <rect width="1200" height="190" fill="url(#h-glowA)" />
+    <rect width="1200" height="190" fill="url(#h-glowB)" />
+
+    <!-- Floating Sparkles & Stars -->
+    <circle class="sparkle" cx="620" cy="155" r="2.2" fill="#E8A9C4" style="animation-delay: 0s;" />
+    <circle class="sparkle" cx="740" cy="165" r="1.8" fill="#B9A0C9" style="animation-delay: -1.5s;" />
+    <circle class="sparkle" cx="870" cy="140" r="2.5" fill="#F7F4F5" style="animation-delay: -3.0s;" />
+    <circle class="sparkle" cx="990" cy="160" r="2.0" fill="#E8A9C4" style="animation-delay: -4.5s;" />
+    <circle class="sparkle" cx="1080" cy="130" r="1.8" fill="#B9A0C9" style="animation-delay: -2.2s;" />
+    <circle class="sparkle" cx="530" cy="155" r="1.5" fill="#E8C9D8" style="animation-delay: -5.1s;" />
+
+    <path class="sparkle" d="M 800,105 Q 800,111 806,111 Q 800,111 800,117 Q 800,111 794,111 Q 800,111 800,105 Z" fill="#E8A9C4" style="animation-delay: -0.8s;" />
+    <path class="sparkle" d="M 940,85 Q 940,91 946,91 Q 940,91 940,97 Q 940,91 934,91 Q 940,91 940,85 Z" fill="#B9A0C9" style="animation-delay: -3.6s;" />
+    <path class="sparkle" d="M 1040,145 Q 1040,150 1045,150 Q 1040,150 1040,155 Q 1040,150 1035,150 Q 1040,150 1040,145 Z" fill="#E8A9C4" style="animation-delay: -2.5s;" />
   </g>
 
   <!-- OUTER BORDER -->
-  <rect x="0.5" y="0.5" width="1199" height="229" rx="24" fill="none" stroke="#E8A9C4" stroke-opacity="0.18" stroke-width="1.2" />
+  <rect x="0.5" y="0.5" width="1199" height="189" rx="24" fill="none" stroke="#E8A9C4" stroke-opacity="0.18" stroke-width="1.2" />
 
   <!-- TOP TERMINAL BAR -->
   <g transform="translate(44, 28)">
@@ -69,11 +87,10 @@
       <tspan fill="#E8A9C4">bleidys@dev</tspan>:<tspan fill="#B9A0C9">~/workspace</tspan><tspan fill="#918A91"> (main) ✦</tspan>
     </text>
 
-    <!-- Status pill on the right -->
+    <!-- Status pill on the right (with static green dot) -->
     <g transform="translate(890, -4)">
       <rect width="220" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#E8A9C4" stroke-opacity="0.22" stroke-width="1" />
       <circle cx="16" cy="14" r="4" fill="#10B981" />
-      <circle cx="16" cy="14" r="4" fill="#10B981" opacity="0.4" class="pulse-slow" />
       <text class="sans" x="28" y="18" font-size="12" font-weight="600" fill="#F7F4F5">Open to opportunities ♡</text>
     </g>
   </g>
@@ -91,11 +108,6 @@
     <!-- Subtitle role -->
     <text class="sans" x="0" y="104" font-size="18" font-weight="600" fill="#B9A0C9">
       Software &amp; Data Engineering Student
-    </text>
-
-    <!-- Bio tagline -->
-    <text class="sans" x="0" y="130" font-size="14.5" fill="#918A91">
-      Bridging reactive frontend interfaces with solid backend APIs and data insights.
     </text>
   </g>
 </svg>
