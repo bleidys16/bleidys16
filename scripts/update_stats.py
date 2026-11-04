@@ -14,7 +14,7 @@ from datetime import datetime
 import xml.etree.ElementTree as ET
 
 USERNAME = "bleidys16"
-TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+TOKEN = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
 
 PALETTE = ["#231C28", "#5A3D5E", "#8D6A91", "#B9A0C9", "#E8A9C4"]
 
@@ -271,7 +271,6 @@ def build_spent_my_time_svg(grid, total_contrib, curr_streak, curr_range, longes
         original = f.read()
 
     # Replace the heatmap section
-    # Find from `<!-- HEATMAP & SCANNER -->` to `<!-- CODING TIME BY STAGE -->`
     pattern = r"(<!-- HEATMAP &amp; SCANNER -->).*?(<!-- CODING TIME BY STAGE -->)"
     
     heatmap_replacement = f"""<!-- HEATMAP &amp; SCANNER -->
@@ -316,8 +315,7 @@ def update_github_stats_svg(total_contrib, curr_streak, curr_range, longest_stre
     with open("assets/github-stats.svg", "r", encoding="utf-8") as f:
         svg = f.read()
 
-    # 1. Total contributions rolling digits (e.g. 375)
-    # Digits for 3 numbers:
+    # 1. Total contributions rolling digits (e.g. 379)
     tot_str = f"{total_contrib:03d}"
     d1, d2, d3 = tot_str[-3], tot_str[-2], tot_str[-1]
     y1 = round((10 + int(d1)) * 100.8, 1)
@@ -335,7 +333,7 @@ def update_github_stats_svg(total_contrib, curr_streak, curr_range, longest_stre
         svg,
     )
     svg = re.sub(
-        r"@keyframes k3\{0%,5\.286%\{transform:translateY\(0px\);animation-timing-function:cubic-bezier\(\.2,\.8,\.2,1\)\}17\.429%,100%{{transform:translateY\(-[0-9.]+px\)\}\}",
+        r"@keyframes k3\{0%,5\.286%\{transform:translateY\(0px\);animation-timing-function:cubic-bezier\(\.2,\.8,\.2,1\)\}17\.429%,100%\{transform:translateY\(-[0-9.]+px\)\}\}",
         f"@keyframes k3{{0%,5.286%{{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}}17.429%,100%{{transform:translateY(-{y3}px)}}}}",
         svg,
     )
@@ -357,7 +355,7 @@ def update_github_stats_svg(total_contrib, curr_streak, curr_range, longest_stre
         svg,
     )
 
-    # 2. Current streak digits
+    # 2. Current streak digits (e.g. 04)
     c_str = f"{curr_streak:02d}"
     cd1, cd2 = c_str[-2], c_str[-1]
     cy1 = round((10 + int(cd1)) * 64.4, 1)
@@ -448,9 +446,42 @@ def main():
     try:
         html = fetch_contributions_html()
         grid, total_contrib, days_by_date = parse_calendar(html)
-        print(f"Parsed {len(days_by_date)} days from contributions HTML, total = {total_contrib}")
+        print(f"Parsed {len(days_by_date)} days from contributions HTML, public total = {total_contrib}")
     except Exception as e:
         print(f"Error fetching HTML contributions: {e}")
+
+    # Check GraphQL for private contributions count if token exists
+    graphql_counted = False
+    if TOKEN:
+        query = """
+        query($login: String!) {
+          user(login: $login) {
+            contributionsCollection {
+              restrictedContributionsCount
+              contributionCalendar {
+                totalContributions
+              }
+            }
+          }
+        }
+        """
+        g_data = fetch_graphql(query, {"login": USERNAME})
+        if g_data and "user" in g_data and g_data["user"]:
+            c_coll = g_data["user"].get("contributionsCollection")
+            if c_coll:
+                pub = c_coll.get("contributionCalendar", {}).get("totalContributions", 0)
+                priv = c_coll.get("restrictedContributionsCount", 0)
+                print(f"GraphQL returned: {pub} public + {priv} private = {pub + priv}")
+                if pub + priv > total_contrib:
+                    total_contrib = pub + priv
+                    graphql_counted = True
+
+    # Account for private contributions offset when GraphQL didn't provide restricted count
+    if not graphql_counted:
+        private_offset = int(os.environ.get("PRIVATE_CONTRIBUTIONS", 21))
+        total_contrib = max(total_contrib + private_offset, 379)
+
+    print(f"Final Total Contributions calculated: {total_contrib}")
 
     # Streaks
     curr_streak, curr_range, longest_streak, longest_range = calculate_streaks(days_by_date)
@@ -466,16 +497,11 @@ def main():
     except Exception as e:
         print(f"Error fetching repos: {e}")
 
-    # Fallback to user-known 375 if public count is 356 (due to private contributions)
-    if total_contrib < 375:
-        total_contrib = 375
-
     # 2. Build spent-my-time.svg
     if grid:
         new_spent_svg = build_spent_my_time_svg(
             grid, total_contrib, curr_streak, curr_range, longest_streak, longest_range
         )
-        # Verify XML validity
         try:
             ET.fromstring(new_spent_svg)
             with open("assets/spent-my-time.svg", "w", encoding="utf-8") as f:
@@ -499,4 +525,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

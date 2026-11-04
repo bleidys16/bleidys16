@@ -2,15 +2,12 @@ name: Update GitHub Stats & Activity Heatmap
 
 on:
   schedule:
-    # Runs every day at 03:00 UTC (10:00 PM Colombia time)
-    - cron: '0 3 * * *'
-  workflow_dispatch: # Allows running manually anytime from the Actions tab
+    # Runs every hour at minute 0
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows running manually anytime from the Actions tab with 1 click
   push:
     branches:
       - main
-    paths:
-      - 'scripts/**'
-      - '.github/workflows/**'
 
 permissions:
   contents: write
@@ -30,6 +27,8 @@ jobs:
       - name: Update GitHub Stats and Calendar SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          PRIVATE_CONTRIBUTIONS: 21
         run: |
           python scripts/update_stats.py
 
@@ -44,4 +43,3 @@ jobs:
             git commit -m "🤖 Auto-update GitHub stats & activity heatmap [skip ci]"
             git push
           fi
-
