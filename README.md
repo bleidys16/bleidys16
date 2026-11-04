@@ -5,10 +5,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bleidys16&label=Profile%20Views&color=8D6A91&style=flat-square" alt="Profile Views" />
-</p>
-
 <table>
 <tr>
 <td width="70%" valign="top">
@@ -72,59 +68,50 @@ Currently in my **3rd semester** of **Software & Data Engineering** at **IU Digi
 
 **✦ projects**
 
-🛠️ **[Soportix](https://github.com/bleidys16/Soportix)**  
-Helpdesk empresarial con tickets y roles.  
-`Django REST` `Angular` `PostgreSQL` `JWT`  
+🛠️ **[Soportix](https://github.com/bleidys16/Soportix)**
+Helpdesk empresarial con tickets y roles.
+`Django REST` `Angular` `PostgreSQL` `JWT`
 [![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=render&logoColor=151217)](https://soportix-1.onrender.com/)
 
 ---
 
-🏥 **[VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**  
-Gestión clínica con arquitectura CRUD.  
-`Django REST` `PostgreSQL` `Bootstrap` `scikit-learn`  
+🏥 **[VITA-Clinical](https://github.com/bleidys16/VITA-Clinical)**
+Gestión clínica con arquitectura CRUD.
+`Django REST` `PostgreSQL` `Bootstrap` `scikit-learn`
 [![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=render&logoColor=151217)](https://vita-clinical.onrender.com/)
 
 ---
 
-🧠 **[Intellixy](https://github.com/bleidys16/Intellixy)**  
-Estudio con IA: quizzes, flashcards y tutor con citas desde tus PDF y apuntes. Web y Android.  
-`Next.js` `TypeScript` `PostgreSQL` `Capacitor`  
-[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://intellixy-web.vercel.app)  
+🧠 **[Intellixy](https://github.com/bleidys16/Intellixy)**
+Estudio con IA: quizzes, flashcards y tutor con citas desde tus PDF y apuntes. Web y Android.
+`Next.js` `TypeScript` `PostgreSQL` `Capacitor`
+[![Live](https://img.shields.io/badge/live-E8A9C4?style=flat-square&logo=vercel&logoColor=151217)](https://intellixy-web.vercel.app)
 [Descarga el APK en el repo](https://github.com/bleidys16/Intellixy)
 
 ---
 
-📊 **[Analyzor](https://github.com/bleidys16/Analyzor)**  
-Análisis de CSV con visualizaciones y NLP.  
-`Python` `React` `Vite`  
+📊 **[Analyzor](https://github.com/bleidys16/Analyzor)**
+Análisis de CSV con visualizaciones y NLP.
+`Python` `React` `Vite`
 [![Live](https://img.shields.io/badge/live-B9A0C9?style=flat-square&logo=vercel&logoColor=151217)](https://analyzor.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<h3 align="center"><code>✦ github stats</code></h3>
+<h3 align="center"><code>// github stats</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bleidys16&show_icons=true&hide_border=true&bg_color=151217&title_color=E8A9C4&icon_color=B9A0C9&text_color=F7F4F5" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=6" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bleidys16&hide_border=true&background=151217&ring=8D6A91&fire=E8A9C4&currStreakLabel=E8C9D8&sideLabels=918A91&dates=918A91&currStreakNum=F7F4F5&sideNums=F7F4F5&v=6" width="60%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleidys16&layout=compact&hide_border=true&bg_color=151217&title_color=E8A9C4&text_color=F7F4F5" width="48%" alt="Top Languages" />
-</p>
-
-<h3 align="center"><code>✦ spent my time & activity</code></h3>
+<h3 align="center"><code>// spent my time</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bleidys16&theme=react-dark&bg_color=151217&color=E8A9C4&line=B9A0C9&point=F7F4F5&area=true&hide_border=true" width="97%" alt="Commit Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bleidys16&theme=tokyonight" width="90%" alt="Spent My Time & Activity" />
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:5A3D5E,50:8D6A91,100:E8A9C4&section=footer" width="100%" alt="footer wave" />
-</p>
 
 <p align="center">
   <sub>💗 thanks for stopping by - let's build something — <a href="mailto:lariosbleidys@gmail.com">let's talk</a></sub>
