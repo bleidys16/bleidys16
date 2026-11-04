@@ -29,7 +29,7 @@ I'm currently exploring **APIs, cloud deployment, and data visualization** to bu
 <table>
 <tr>
 <td align="center" width="35%">
-<img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="230" alt="coding gif"/>
+<img src="https://github.com/user-attachments/assets/30901168-fb88-46e3-95f6-8bfb03e03b3c" width="205" alt="coding gif"/>
 </td>
 <td width="65%" valign="top">
 
