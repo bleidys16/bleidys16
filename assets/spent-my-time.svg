@@ -551,6 +551,7 @@
 <rect x="1526" y="282" width="12" height="12" rx="3" fill="#231C28" />
 <rect class="cell" x="1526" y="298" width="12" height="12" rx="3" fill="#5A3D5E" style="animation-delay:3.00s" />
 <rect class="cell" x="1526" y="314" width="12" height="12" rx="3" fill="#5A3D5E" style="animation-delay:3.00s" />
+<rect x="1526" y="330" width="12" height="12" rx="3" fill="#231C28" />
 </g>
 
 <!-- Scanner Light -->
