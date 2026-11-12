@@ -11,7 +11,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes k4{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:0}}
 @keyframes k5{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @keyframes k6{0%,4.643%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{transform:translateY(-644.0px)}}
-@keyframes k7{0%,5.5%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.643%,100%{transform:translateY(-772.8px)}}
+@keyframes k7{0%,5.5%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.643%,100%{transform:translateY(-644.0px)}}
 @keyframes k8{0%,5.714%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.857%,100%{transform:translateY(-1008.0px)}}
 @keyframes k9{0%,6.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.714%,100%{transform:translateY(-1713.6px)}}
 @keyframes k35{0%,10.143%{stroke-dasharray:0 427.26;animation-timing-function:linear}14.343%,100%{stroke-dasharray:153.81 427.26}}
@@ -173,7 +173,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="457.5" y="1366.2" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">8</text>
 <text x="457.5" y="1430.6" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:k7 14.0s infinite;transform:translateY(-772.8px)">
+<g style="animation:k7 14.0s infinite;transform:translateY(-644.0px)">
 <text x="486.5" y="207.0" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">0</text>
 <text x="486.5" y="271.4" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">1</text>
 <text x="486.5" y="335.8" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">2</text>
